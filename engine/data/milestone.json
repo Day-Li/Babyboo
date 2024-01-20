@@ -1,0 +1,3977 @@
+{
+  "NewBorn": {
+    "Gross Motor": {
+      "values": [
+        {
+          "label": "Does your baby require neck support?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#4300DB",
+      "color2": "#C3A8FF",
+      "iconName": "grossMotor"
+    },
+    "Fine Motor": {
+      "values": [
+        {
+          "label": "Does your baby close his fist when an object is placed in his/her hand?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#E22B87",
+      "color2": "#FF91EA",
+      "iconName": "fineMotor"
+    },
+    "Cognitive": {
+      "values": [
+        {
+          "label": "Remains Alert 15-30% of the Time. Sleeps a significant part of the day.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Presence of All Primitive Reflexes. Involuntary movements that help them navigate early life e.g., sucking, palmar, grasp, plantar, Moro's, rooting, etc.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Is your baby ticklish on the sole of the foot?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Does your baby suck anything that touches his/her mouth?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Does your baby have reflex when there is sudden loss of support?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Your baby turns his head towards anything that strokes his/her head?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Expects regular feeding intervals.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Deliberately cries to ask for help.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#00CE96",
+      "color2": "#BEFFED",
+      "iconName": "cognitive"
+    },
+    "Speech": {
+      "values": [
+        {
+          "label": "Does your baby produce high pitch noises?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Communicates Through Crying. Whimpers and cries are the primary means of communication.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#FF5B13",
+      "color2": "#FFD7C6",
+      "iconName": "speech"
+    },
+    "Sensory": {
+      "values": [
+        {
+          "label": "How does your baby react to faces and objects? interested/not interested",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Perceives light, its intensity and movement.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Perceives changes in temperatures.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#00A1EF",
+      "color2": "#89D9FF",
+      "iconName": "sensory"
+    },
+    "Self Care": {
+      "values": [
+        {
+          "label": "Sleeping, crying and eating patterns are still disorganized.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#FF9D00",
+      "color2": "#FFE2B2",
+      "iconName": "selfCare"
+    },
+    "Social-Emotional": {
+      "values": [
+        {
+          "label": "Does your baby respond to voices and try to look at the person talking?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#CB0016",
+      "color2": "#FFA5AF",
+      "iconName": "socialEmotional"
+    }
+  },
+  "1 Month": {
+    "Gross Motor": {
+      "values": [
+        {
+          "label": "Does your baby extend arms and hands?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Baby tries to maintain his/her head upright for a few seconds?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#4300DB",
+      "color2": "#C3A8FF",
+      "iconName": "grossMotor"
+    },
+    "Fine Motor": {
+      "values": [
+        {
+          "label": "Grabs other’s fingers if they put in the palm of the baby?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Does your baby move closed hands towards objects?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Your baby opens his/her hands if an object is put in the palm and automatically closes it?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#E22B87",
+      "color2": "#FF91EA",
+      "iconName": "fineMotor"
+    },
+    "Cognitive": {
+      "values": [
+        {
+          "label": "Your baby studies and explores the movements of hands?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#00CE96",
+      "color2": "#BEFFED",
+      "iconName": "cognitive"
+    },
+    "Speech": {
+      "values": [
+        {
+          "label": "did your child start developing a variety of  coos and gurgles?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#FF5B13",
+      "color2": "#FFD7C6",
+      "iconName": "speech"
+    },
+    "Sensory": {
+      "values": [
+        {
+          "label": "Your baby identifies human voice from other different sounds?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Does your baby make eye contact?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Is your baby startled to certain noises?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#00A1EF",
+      "color2": "#89D9FF",
+      "iconName": "sensory"
+    },
+    "Self Care": {
+      "values": [
+        {
+          "label": "Identifies Human Voice, can differentiate  from other sounds.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#FF9D00",
+      "color2": "#FFE2B2",
+      "iconName": "selfCare"
+    },
+    "Social - Emotional": {
+      "values": [
+        {
+          "label": "Does your baby react to the presence of a person by moving hands and legs,gesturing or heavily breathing?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Your child expresses emotions like anxiety, pleasure and excitement?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Does your child prefer people over objects?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#CB0016",
+      "color2": "#FFA5AF",
+      "iconName": "socialEmotional"
+    }
+  },
+  "2 Months": {
+    "Gross Motor": {
+      "values": [
+        {
+          "label": "Does your baby lift head for a few seconds?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Does your child apply pressure when feet are against something firm?.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Is you baby able to make a variety of head and neck movements?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Does your baby attempt to lean on forearms when lying on stomach?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Your baby does vigorous hands and legs movements?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Does your baby like to be carried and maintained in an upright position?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#4300DB",
+      "color2": "#C3A8FF",
+      "iconName": "grossMotor"
+    },
+    "Fine Motor": {
+      "values": [
+        {
+          "label": "Your baby’s palms stay open for longer periods??",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Opens and closes hands.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Your baby hits objects hanging near fingertips?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#E22B87",
+      "color2": "#FF91EA",
+      "iconName": "fineMotor"
+    },
+    "Cognitive": {
+      "values": [
+        {
+          "label": "Does your baby bring his/her hands to mouth?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Does your child express interest or excitement about something?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#00CE96",
+      "color2": "#BEFFED",
+      "iconName": "cognitive"
+    },
+    "Speech": {
+      "values": [
+        {
+          "label": "Your baby reacts to sounds with a combination of sighs,coos and gurgles?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#FF5B13",
+      "color2": "#FFD7C6",
+      "iconName": "speech"
+    },
+    "Sensory": {
+      "values": [
+        {
+          "label": "does your baby look from where the sound is coming from by turning head and neck?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Your baby looks at people’s faces with increased attention?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Is your baby looking at the bottle while sucking it simultaneously?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Pays attention to voices and unfamiliar noises.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Does your baby enjoy it when someone sings?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Your child stops sucking or other activities to listen to new sounds?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#00A1EF",
+      "color2": "#89D9FF",
+      "iconName": "sensory"
+    },
+    "Self Care": {
+      "values": [
+        {
+          "label": "Does your baby extend arms towards the bottle or breast?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#FF9D00",
+      "color2": "#FFE2B2",
+      "iconName": "selfCare"
+    },
+    "Social - Emotional": {
+      "values": [
+        {
+          "label": "Your child seeks attention when parents are around?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Your child displays a wide range of expressions to show mood?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Your baby’s crying frequency is starting to decrease?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#CB0016",
+      "color2": "#FFA5AF",
+      "iconName": "socialEmotional"
+    }
+  },
+  "3 Months": {
+    "Gross Motor": {
+      "values": [
+        {
+          "label": "Your baby’s head control increased?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Your baby turns head in all directions while lying on pillows or other types of support",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#4300DB",
+      "color2": "#C3A8FF",
+      "iconName": "grossMotor"
+    },
+    "Fine Motor": {
+      "values": [
+        {
+          "label": "Does your baby have hand-eye coordination?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Does you baby grab objects and shake the object with hands?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Does your baby pull hanging objects and bring them to their mouth?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#E22B87",
+      "color2": "#FF91EA",
+      "iconName": "fineMotor"
+    },
+    "Cognitive": {
+      "values": [
+        {
+          "label": "Does your baby imitate simple actions like opening /closing eyes and sticking out the tongue?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Your child explores face using hands?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Does your baby look at objects and try to put them in mout",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#00CE96",
+      "color2": "#BEFFED",
+      "iconName": "cognitive"
+    },
+    "Speech": {
+      "values": [
+        {
+          "label": "Does your child combine gurgles and vocal play?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Does your baby pay attention to sounds of words and listen to adult conversations?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Looks closely while opening and closing own hands.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Does your baby identify and show interest in smelling different kinds of scents?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Your baby reacts excitedly when music starts?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#FF5B13",
+      "color2": "#FFD7C6",
+      "iconName": "speech"
+    },
+    "Social - Emotional": {
+      "values": [
+        {
+          "label": "Does your baby smile often?.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Your baby responds positively to touch?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#CB0016",
+      "color2": "#FFA5AF",
+      "iconName": "socialEmotional"
+    },
+    "Self Care": {
+      "values": [
+        {
+          "label": "Does your baby sleep around 15 hrs a day? Don’t worry! It’s common.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Your baby’s sleeping,feeding and activities have patterns?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#FF9D00",
+      "color2": "#FFE2B2",
+      "iconName": "selfCare"
+    }
+  },
+  "4 Months": {
+    "Gross Motor": {
+      "values": [
+        {
+          "label": "Does your baby roll from front to back?If not, Don’t worry! IT takes time for few babies",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Does your baby make vigorous movements like swimming?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Is your baby able to put feet to mouth and suck them?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#4300DB",
+      "color2": "#C3A8FF",
+      "iconName": "grossMotor"
+    },
+    "Fine Motor": {
+      "values": [
+        {
+          "label": "Does your baby grasp objects without using thumb?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Can your baby hold objects with both hands?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Does your baby reach objects with one or both hands?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Your baby wants to touch , grab, shake and taste objects?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Your baby drop objects but still not able to pick up?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#E22B87",
+      "color2": "#FF91EA",
+      "iconName": "fineMotor"
+    },
+    "Cognitive": {
+      "values": [
+        {
+          "label": "Can you see your baby do more deliberate movements such as extending arms and hands when seeing a desired object?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Is your observant of object’s height and weight?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#00CE96",
+      "color2": "#BEFFED",
+      "iconName": "cognitive"
+    },
+    "Speech": {
+      "values": [
+        {
+          "label": "Is your baby interested in producing and imitating new sounds?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Might direct sounds toward nearby people, objects and toys.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#FF5B13",
+      "color2": "#FFD7C6",
+      "iconName": "speech"
+    },
+    "Sensory": {
+      "values": [
+        {
+          "label": "Does your baby have eye-body coordination ?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Does your baby deliberately turn head towards an object?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#00A1EF",
+      "color2": "#89D9FF",
+      "iconName": "Sensory"
+    },
+    "Self Care": {
+      "values": [
+        {
+          "label": "Does your baby enjoy bath time and lift  head when lying on their back?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Is your baby’s feeding and sleeping schedules increasingly established?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#FF9D00",
+      "color2": "#FFE2B2",
+      "iconName": "selfCare"
+    },
+    "Social - Emotional": {
+      "values": [
+        {
+          "label": "Does your baby engage with other people?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Does your baby actively look around in a new place,exploring surroundings?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Does your baby cry when the playtime is over?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Is your baby smart enough to learn that parents and caregivers respond to crying and use it to get attention?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#CB0016",
+      "color2": "#FFA5AF",
+      "iconName": "socialEmotional"
+    }
+  },
+  "5 Months": {
+    "Gross Motor": {
+      "values": [
+        {
+          "label": "Does your baby have core strength?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Is your baby able to lift chest up with arms when prone?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Is your baby able to stay in sitting position for a few seconds?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": " Turns head freely in both directions.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Your baby always uses a single arm to reach for something rather than using both?.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#4300DB",
+      "color2": "#C3A8FF",
+      "iconName": "grossMotor"
+    },
+    "Fine Motor": {
+      "values": [
+        {
+          "label": "Does your baby grasp objects with the center of the palm without using thumb?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Is your baby able to quickly reach out and grab an object of interest?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Does your baby have enough grip to lift self from lying down to seated?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": " May have strong enough grip to lift self from lying down to seated while holding onto a stick being lifted by a caregiver.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#E22B87",
+      "color2": "#FF91EA",
+      "iconName": "fineMotor"
+    },
+    "Cognitive": {
+      "values": [
+        {
+          "label": "Does your baby mimic you and other simple sounds?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Your baby is able to remain alert for nearly two continuous hours?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Does your baby recognize frequently used objects or toys?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Does your baby understand the difference between a human face and non human objects?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Your baby leans down to look for an object that is dropped?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Does your baby recognize immediate family and get upset with strangers?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#00CE96",
+      "color2": "#BEFFED",
+      "iconName": "cognitive"
+    },
+    "Speech": {
+      "values": [
+        {
+          "label": "Did your baby improve from gurgles to babbling?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Does your baby repeat dimple sounds like ba,ca,da just to hear them?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Does your baby display a variety of changes in volume and tone when talking?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#FF5B13",
+      "color2": "#FFD7C6",
+      "iconName": "speech"
+    },
+    "Sensory": {
+      "values": [
+        {
+          "label": "Did the hand-eye coordination improve of your baby?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Is your baby visually track fast-moving objects?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#00A1EF",
+      "color2": "#89D9FF",
+      "iconName": "sensory"
+    },
+    "Self Care": {
+      "values": [
+        {
+          "label": "Your baby is able to hold the bottle with one or two hands?.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Does your baby sleep throughout the night?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#FF9D00",
+      "color2": "#FFE2B2",
+      "iconName": "selfCare"
+    },
+    "Social - Emotional": {
+      "values": [
+        {
+          "label": "Does your baby have mood swings?i.e switches between happiness,fussiness and sadness",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#CB0016",
+      "color2": "#FFA5AF",
+      "iconName": "socialEmotional"
+    }
+  },
+  "6 Months": {
+    "Gross Motor": {
+      "values": [
+        {
+          "label": "Does your baby remain seated for limited periods of time using own arms as support?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Is your baby able to roll over, turn and pivot in all directions?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Starts moving using army crawl (not all babies do it).",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Is your baby able to turn and then reach out to grab an object?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Your baby has strong control of head movements?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#4300DB",
+      "color2": "#C3A8FF",
+      "iconName": "grossMotor"
+    },
+    "Fine Motor": {
+      "values": [
+        {
+          "label": "Radial Palmar Grasp: Objects are secured using the radial side of the palm, the thumb, the index and middle fingers  all other fingers remain flexed.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Does your baby clap hands?(it usually happens between 6-9 months)",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Is your baby able to manipulate ,hit and take objects to their mouth?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Your baby has a high level interest in toys that produce sounds like bells,music boxes and rattles?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#E22B87",
+      "color2": "#FF91EA",
+      "iconName": "fineMotor"
+    },
+    "Cognitive": {
+      "values": [
+        {
+          "label": "At this age, Your baby recognizes own name and reacts when being called?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Your baby might be able to use a toy as a tool to grab another one?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Examines objects for a long period of time?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Does your baby explore body with hands and mouth?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#00CE96",
+      "color2": "#BEFFED",
+      "iconName": "cognitive"
+    },
+    "Speech": {
+      "values": [
+        {
+          "label": "Does your baby repeat the same sound like ‘mama,baba’?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Is your baby able to contol the opening and closing of vical tract?.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#FF5B13",
+      "color2": "#FFD7C6",
+      "iconName": "speech"
+    },
+    "Sensory": {
+      "values": [
+        {
+          "label": "Is your baby able to differentiate when the objects are near or far?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#00A1EF",
+      "color2": "#89D9FF",
+      "iconName": "sensory"
+    },
+    "Self Care": {
+      "values": [
+        {
+          "label": "Does your baby enjoy playing the food and shows interest in feeding self with fingers?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#FF9D00",
+      "color2": "#FFE2B2",
+      "iconName": "selfCare"
+    },
+    "Social - Emotional": {
+      "values": [
+        {
+          "label": "Does your baby understand the word 'NO' ?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Does your baby get excited when he/she realizes that it is playtime?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Does your baby interact with his/her own image in the mirror?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Your baby displays happiness in enjoyable situations?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Is it becoming difficult for you to get things done by the baby?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#CB0016",
+      "color2": "#FFA5AF",
+      "iconName": "socialEmotional"
+    }
+  },
+  "7 Months": {
+    "Gross Motor": {
+      "values": [
+        {
+          "label": "Does your baby display good balance while sitting without the support of arms ?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Does your baby rock and bounce while sitting?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Your child attempts to get up on hands and knees to get into a crawling position?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#4300DB",
+      "color2": "#C3A8FF",
+      "iconName": "grossMotor"
+    },
+    "Fine Motor": {
+      "values": [
+        {
+          "label": "Can your baby hold objects with two hands simultaneously and bang them together?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Your baby uses index and middle fingers to get to nearby objects?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Your baby experiments with hands by moving in different directions and dropping objects?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#E22B87",
+      "color2": "#FF91EA",
+      "iconName": "fineMotor"
+    },
+    "Cognitive": {
+      "values": [
+        {
+          "label": "Is your baby curious about people and focuses when they are talking?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Your baby recognizes name and reacts when called?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#00CE96",
+      "color2": "#BEFFED",
+      "iconName": "cognitive"
+    },
+    "Speech": {
+      "values": [
+        {
+          "label": "Does your baby repeat the same sound multiple times before moving to another?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Does your baby experiment with taking turns to talk ,as if having an actual two person conversation?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#FF5B13",
+      "color2": "#FFD7C6",
+      "iconName": "speech"
+    },
+    "Sensory": {
+      "values": [
+        {
+          "label": "Your baby has curiosity and pays attention to subtle sounds like ticking of a clock?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#00A1EF",
+      "color2": "#89D9FF",
+      "iconName": "sensory"
+    },
+    "Self Care": {
+      "values": [
+        {
+          "label": "Your baby begins to develop strong preferences for different food tastes?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#FF9D00",
+      "color2": "#FFE2B2",
+      "iconName": "selfCare"
+    },
+    "Social - Emotional": {
+      "values": [
+        {
+          "label": "Your baby shows interest in playing for longer periods of time?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Does your baby wave goodbye? This happens between 7-10 Months.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Your baby shows separation anxiety by fear of strangers or separation from mother?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Does your baby cry when others are crying or imitate someone’s mood?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Your baby pushes away something which is unwanted to them?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#CB0016",
+      "color2": "#FFA5AF",
+      "iconName": "socialEmotional"
+    }
+  },
+  "8 Months": {
+    "Gross Motor": {
+      "values": [
+        {
+          "label": "Is your baby able to sit from a lying position,facee up or face down?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Your baby can remain in seating position for several minutes without using support?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Once in standing position. Does your baby require help to go back to sitting position?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Can your baby stand using furniture as support but still can’t stand up without help?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#4300DB",
+      "color2": "#C3A8FF",
+      "iconName": "grossMotor"
+    },
+    "Fine Motor": {
+      "values": [
+        {
+          "label": "Your baby grasps objects using index finger ,middle finger and thumb?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Is your baby able to grab and manipulate two objects one in each hand?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#E22B87",
+      "color2": "#FF91EA",
+      "iconName": "fineMotor"
+    },
+    "Cognitive": {
+      "values": [
+        {
+          "label": "Is your baby interested in different forms of face i.e happy face, sad face etc?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Can your baby solve small sequence of actions or behaviours (for eg.kicking a hanging toy to be able to grab it?)",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#00CE96",
+      "color2": "#BEFFED",
+      "iconName": "cognitive"
+    },
+    "Speech": {
+      "values": [
+        {
+          "label": "Does your baby attempts to imitate sounds or noises produced by objects? Eg. boom!",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Your baby started combining more than one syllable while babbling?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Your baby listens carefully to conversations,songs and understands the different tones?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#FF5B13",
+      "color2": "#FFD7C6",
+      "iconName": "speech"
+    },
+    "Self Care": {
+      "values": [
+        {
+          "label": "Is your baby easily distracted and is more interested in exploring surroundings than in things like eating?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#FF9D00",
+      "color2": "#FFE2B2",
+      "iconName": "selfCare"
+    },
+    "Social - Emotional": {
+      "values": [
+        {
+          "label": "Your baby performs actions to get applauded?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Does your child become proactive about starting playtime?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Your baby becomes possessive over a toy?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Does your child understand people’s moods?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Does your child deliberately choose toys with which to play?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Your baby prefers to play close to mother?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#CB0016",
+      "color2": "#FFA5AF",
+      "iconName": "socialEmotional"
+    }
+  },
+  "9 Months": {
+    "Gross Motor": {
+      "values": [
+        {
+          "label": "Your baby starts using furniture to try to stand but still needs help?’",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Does your baby crawl (happens between 8-10 months)",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Does your baby go from crawling to sitting position without any effort?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#4300DB",
+      "color2": "#C3A8FF",
+      "iconName": "grossMotor"
+    },
+    "Fine Motor": {
+      "values": [
+        {
+          "label": "Is your baby able to hold 2 small objects in one hand?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Voluntarily drops objects, although lacks control to place objects on a surface gently?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Can your baby open drawers and explore contents?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Does your child use hands in different ways i.e uses one for support and another to manipulate an object?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": " Uses hands in different ways  for example, uses one as support and the other to manipulate an object.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Your child stacks similar objects i.e plastic cups?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#E22B87",
+      "color2": "#FF91EA",
+      "iconName": "fineMotor"
+    },
+    "Cognitive": {
+      "values": [
+        {
+          "label": "Is your baby able to recover an object that has been hidden as he/she observes?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Your child anticipates a reward for the successful completion of a taskor order?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Is your baby able to hold several ideas in mind such as communicating while playing?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Your baby gets easily bored with playing with the same toy or same game?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Your child becomes aware of heights, which might create fear?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#00CE96",
+      "color2": "#BEFFED",
+      "iconName": "cognitive"
+    },
+    "Speech": {
+      "values": [
+        {
+          "label": "More sophisticated form of babbling instead of repeating the same syllable?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Your child says “NO’” while shaking head side to side?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#FF5B13",
+      "color2": "#FFD7C6",
+      "iconName": "speech"
+    },
+    "Sensory": {
+      "values": [
+        {
+          "label": "Your baby understands individuality within a group?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#00A1EF",
+      "color2": "#89D9FF",
+      "iconName": "sensory"
+    },
+    "Self Care": {
+      "values": [
+        {
+          "label": "While getting dressed, your baby helps by moving hands and legs accordingly?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#FF9D00",
+      "color2": "#FFE2B2",
+      "iconName": "selfCare"
+    },
+    "Social - Emotional": {
+      "values": [
+        {
+          "label": "Increased awareness of self  increasingly aware of social approval or disapproval.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Your child imitates gestures,facial expressions and sounds?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Your baby displays a broader set of moods like frustrated,sad,happy,angry,excited etc.?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Your baby picks one or few toys as favourite ones?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Your child demonstrates far in new places?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#CB0016",
+      "color2": "#FFA5AF",
+      "iconName": "socialEmotional"
+    }
+  },
+  "10 Months": {
+    "Gross Motor": {
+      "values": [
+        {
+          "label": "Your baby tries to place one foot in front of the other to move?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Your baby sits from standing  and is able to move from standing up to sitting on the floor?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Will try to stand up in different ways, using different types of support.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "YOUR BABY HAS PERFECT CRAWLING WITH IMPROVED SPEED AND FORM?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Your baby climbs onto and off the chairs and other furniture?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#4300DB",
+      "color2": "#C3A8FF",
+      "iconName": "grossMotor"
+    },
+    "Fine Motor": {
+      "values": [
+        {
+          "label": "Pincer Grasp. grasps small objects using the tips of the index finger and thumb.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Your child places and removes them from a cup,box etc?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Able to remove a loose top from a container.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Your baby tries to turn pages in a cardboard children’s book,often turning more than one page at a time?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#E22B87",
+      "color2": "#FF91EA",
+      "iconName": "fineMotor"
+    },
+    "Cognitive": {
+      "values": [
+        {
+          "label": "Your baby seeks and reaches for an object that is behind without needing to see it?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Continues to learn about objects and their properties?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#00CE96",
+      "color2": "#BEFFED",
+      "iconName": "cognitive"
+    },
+    "Speech": {
+      "values": [
+        {
+          "label": "Your baby understands object names ie. when you say ball, they look at it?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Is your baby able to understand some simple instructions?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Your child can imitate the rhythm of a conversation and facia; expressions?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#FF5B13",
+      "color2": "#FFD7C6",
+      "iconName": "speech"
+    },
+    "Self Care": {
+      "values": [
+        {
+          "label": "Your baby is increasingly interested in playing and exploring the world ?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#FF9D00",
+      "color2": "#FFE2B2",
+      "iconName": "selfCare"
+    },
+    "Social - Emotional": {
+      "values": [
+        {
+          "label": "Imitates movements and games of other children and adults.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Your baby searches for images of nearby objects in the mirror?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Does your baby enjoy peek-a-boo style games?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Increased dependence on mother?(separation anxiety can be high in next 4-8 months).",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Your baby might deliberately decide not to cooperate sometimes?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#CB0016",
+      "color2": "#FFA5AF",
+      "iconName": "socialEmotional"
+    }
+  },
+  "11 Months": {
+    "Gross Motor": {
+      "values": [
+        {
+          "label": "Your baby is able to walk around holding onto furniture?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Your baby might be able to let go of support and remain standing(between 11 and 13 months)",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Your child is able to walk steadily while holding as adults’s hand?(between 11 and 13 months)",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Able to walk steadily while holding an adult 's  hand (between months 11 and 13).",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#4300DB",
+      "color2": "#C3A8FF",
+      "iconName": "grossMotor"
+    },
+    "Fine Motor": {
+      "values": [
+        {
+          "label": "is your baby able to assemble things better ?i.e building blocks?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Your child uses his mouth or armpit to hold a third object when their hands are full with other objects?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#E22B87",
+      "color2": "#FF91EA",
+      "iconName": "fineMotor"
+    },
+    "Cognitive": {
+      "values": [
+        {
+          "label": "Does your child point to body parts when asked?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Does your baby use objects to achieve goals? (for eg. uses a small chair as a walker and moves around holding it?)",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#00CE96",
+      "color2": "#BEFFED",
+      "iconName": "cognitive"
+    },
+    "Speech": {
+      "values": [
+        {
+          "label": "Your baby’s babbling starting to be more conversational?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Is your baby able to pronounce small words through imitation?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#FF5B13",
+      "color2": "#FFD7C6",
+      "iconName": "speech"
+    },
+    "Self Care": {
+      "values": [
+        {
+          "label": "Can your child take off socks on his/her own?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Baby’s curiosity and need for independence increased?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#FF9D00",
+      "color2": "#FFE2B2",
+      "iconName": "selfCare"
+    },
+    "Social - Emotional": {
+      "values": [
+        {
+          "label": "Displays many emotions and recognizes them when displayed by other people.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "your baby enjoys playing with water in the sink or during bath time?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Is your child very interested in any activity performed by an adult?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Does your baby react strongly when separated from mother , especially in new places?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#CB0016",
+      "color2": "#FFA5AF",
+      "iconName": "socialEmotional"
+    }
+  },
+  "12 Months": {
+    "Gross Motor": {
+      "values": [
+        {
+          "label": "Your baby is taking his/her first steps without support?(between 12 and 15 months)",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Is your baby able to walk a few steps on toes using furniture?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Is your baby able to rotate chest 90 degrees while standing up?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": " Can go from standing up to a sitting position without difficulty.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Even if able to walk, might prefer crawling as a more efficient way of locomotion for a while.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Is your baby able to crawl with one hand raised or while carrying an object?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#4300DB",
+      "color2": "#C3A8FF",
+      "iconName": "grossMotor"
+    },
+    "Fine Motor": {
+      "values": [
+        {
+          "label": "Can your child firmly hold a crayon in his/her hand?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": " Is your baby able to hold thin objects and manipulate them like placing them in bottles etc?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#E22B87",
+      "color2": "#FF91EA",
+      "iconName": "fineMotor"
+    },
+    "Cognitive": {
+      "values": [
+        {
+          "label": "Can your baby group items? Eg. similar shapes such as square, circle etc.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Did your child’s imitation skills improve?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": " Understands simple orders.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#00CE96",
+      "color2": "#BEFFED",
+      "iconName": "cognitive"
+    },
+    "Speech": {
+      "values": [
+        {
+          "label": "Is your baby able to say words while pointing towards them?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Can say about three words and understands many more.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Can your baby imitate lyrics or musical sounds of favourite songs?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#FF5B13",
+      "color2": "#FFD7C6",
+      "iconName": "speech"
+    },
+    "Self Care": {
+      "values": [
+        {
+          "label": "Did your baby start doing more things alone?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#FF9D00",
+      "color2": "#FFE2B2",
+      "iconName": "selfCare"
+    },
+    "Social - Emotional": {
+      "values": [
+        {
+          "label": "does your child remain alone for longer periods? Eg. After waking up, the baby takes a few minutes to call their parents?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Your baby can communicate his/her desires and needs effectively?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#CB0016",
+      "color2": "#FFA5AF",
+      "iconName": "socialEmotional"
+    }
+  },
+  "13 Months": {
+    "Gross Motor": {
+      "values": [
+        {
+          "label": "your baby can stand without assistance for longer periods?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": " Walks alone short distances with irregular unstable steps (between months 13-16).",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Your child climbs stairs by crawling with much more ease?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Is your child interested in climbing onto cushions or low tables?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Does your baby like to move around pushing objects like chairs because they provide an increased sense of stability?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#4300DB",
+      "color2": "#C3A8FF",
+      "iconName": "grossMotor"
+    },
+    "Fine Motor": {
+      "values": [
+        {
+          "label": "Is able to remove the lid from a container when it is low pressure.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "when given a crayon, can your baby make a few marks on the paper?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#E22B87",
+      "color2": "#FF91EA",
+      "iconName": "fineMotor"
+    },
+    "Cognitive": {
+      "values": [
+        {
+          "label": "Does your baby interact with objects to learn more from them?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Enjoys Experiment- Based Play.  “What happens if...?” For example, “What happens if I splash water out of the tub?”.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Does your baby have interest in parts of the body i.e exploring eyes,mouth and ears?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#00CE96",
+      "color2": "#BEFFED",
+      "iconName": "cognitive"
+    },
+    "Speech": {
+      "values": [
+        {
+          "label": "Your baby combines familiar actions and words? Eg. bye-bye while waving goodbye?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Does your baby understand a broader range of simple instructions ,especially if they are accompanied by gestures?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Did your child begin to perceive language as a powerful tool to interact with others?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#FF5B13",
+      "color2": "#FFD7C6",
+      "iconName": "speech"
+    },
+    "Self Care": {
+      "values": [
+        {
+          "label": "Can your baby eat with a spoon although he/she will spill a lot?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Can your baby take off socks,hat and other items that are easily removable?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#FF9D00",
+      "color2": "#FFE2B2",
+      "iconName": "selfCare"
+    },
+    "Social - Emotional": {
+      "values": [
+        {
+          "label": "Your child learns to ask for help and uses limited vocabulary to communicate?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Your baby feels as if the world revolves around them?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Play is the primary mechanism by which he/she explores and relates to the world around her.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Your baby wants to do everything independently but realises that he/she still needs help?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#CB0016",
+      "color2": "#FFA5AF",
+      "iconName": "socialEmotional"
+    }
+  },
+  "14 Months": {
+    "Gross Motor": {
+      "values": [
+        {
+          "label": "Does your baby able to roll the ball towards a target with moderate accuracy?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Is your child able to incorporate other movements while walking?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Does your baby attempt to throw a ball overhead?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Your baby walks in an unstable fashion ,frequently falling down and standing back up?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#4300DB",
+      "color2": "#C3A8FF",
+      "iconName": "grossMotor"
+    },
+    "Fine Motor": {
+      "values": [
+        {
+          "label": "your child turns pages in a book,usually 4,5 pages at once?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Can your baby grab objects as they move slowly?(like ball,car)",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Can your child build towers of two levels with increasing ease and various types of objects?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#E22B87",
+      "color2": "#FF91EA",
+      "iconName": "fineMotor"
+    },
+    "Cognitive": {
+      "values": [
+        {
+          "label": "Does your baby have preferences of objects or things?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Does your baby use ‘tools’ to grab objects that are out of reach?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": " Child’s capacity to imitate is increasingly sophisticated  imitates some basic  facial and verbal expressions and some animal and objects sounds.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Can your child recognize frequently visited locations like parks etc?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#00CE96",
+      "color2": "#BEFFED",
+      "iconName": "cognitive"
+    },
+    "Speech": {
+      "values": [
+        {
+          "label": "your baby understands more than 20-30 words?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Are you able to observe the increased desire of your child to communicate ,although limited by small vocabulary?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Applies inflections to new words, for example, may raise the tone of voice when asking a question. “more?”.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "The majority of the words the child understands are simple and concrete.Can also understand simple actions like, “Let’s dance”.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Frequent use of the word “no” in different contexts.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#FF5B13",
+      "color2": "#FFD7C6",
+      "iconName": "speech"
+    },
+    "Self Care": {
+      "values": [
+        {
+          "label": "Your baby is now able to suck through a straw?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Your child can pull out his/her own arms and legs while putting on clothes?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#FF9D00",
+      "color2": "#FFE2B2",
+      "iconName": "selfCare"
+    },
+    "Social - Emotional": {
+      "values": [
+        {
+          "label": "your child manifests a lot of emotions?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Is your baby preferring familiar people and causing anxiety when exposed to strangers?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Can your child entertain himself/herself for a few minutes?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Separation from mom still causes anxiety, this will start decreasing at some point in the next four months.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Your child tries to share positive and negative emotions?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#CB0016",
+      "color2": "#FFA5AF",
+      "iconName": "socialEmotional"
+    }
+  },
+  "15 Months": {
+    "Gross Motor": {
+      "values": [
+        {
+          "label": "Does your baby squat while walking?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Is your baby able to squat while picking something up, then stand again and continue walking?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Can your baby roll a ball to you and receive it when you roll back?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Is your child able to carry objects from one place to another while walking and does this at every opportunity?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#4300DB",
+      "color2": "#C3A8FF",
+      "iconName": "grossMotor"
+    },
+    "Fine Motor": {
+      "values": [
+        {
+          "label": "Is your baby able to anticipate? Like begins to anticipate the trajectory of certain objects?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Your child is able to explain how much quantity is required?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Does your baby imitate social behaviours when he/she frequently observes such as clean,sweep etc?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#E22B87",
+      "color2": "#FF91EA",
+      "iconName": "fineMotor"
+    },
+    "Cognitive": {
+      "values": [
+        {
+          "label": "Ability to Anticipate.can begin to anticipate the trajectory of certain objects  knows where a ball will bounce or what direction a toy car will roll.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Initial Notions of the Concept of Quantity. for example, more bread or more water.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Physical development as well as development of other areas allow him/her to imitate social behaviors he/she frequently observes around him/her, such as sweep or clean.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Knows the various steps of each daily routine (bathing, nap time, supper, etc.).",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#00CE96",
+      "color2": "#BEFFED",
+      "iconName": "cognitive"
+    },
+    "Speech": {
+      "values": [
+        {
+          "label": "your child uses inexact word imitation as a mechanism for language learning?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Is your baby able to verbally communicate many needs?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Is there an increase in intonation and pitch in babbling?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Can your baby understand facial gestures or body movements?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#FF5B13",
+      "color2": "#FFD7C6",
+      "iconName": "speech"
+    },
+    "Self Care": {
+      "values": [
+        {
+          "label": "Can your baby drink from a cup with no lid with assistance?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Your child attempts to comb or brush his own hair?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#FF9D00",
+      "color2": "#FFE2B2",
+      "iconName": "selfCare"
+    },
+    "Social - Emotional": {
+      "values": [
+        {
+          "label": "your baby enjoy getting different reactions from those around him/her?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Your child is more open to sharing with adults than other children?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Your baby remembers social routines and behaviours such as hello or goodbye?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#CB0016",
+      "color2": "#FFA5AF",
+      "iconName": "socialEmotional"
+    }
+  },
+  "16 Months": {
+    "Gross Motor": {
+      "values": [
+        {
+          "label": "is your baby able to throw a ball with an overhead motion?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Can your child change walking speed due to better control of movements?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Can your baby climb furniture alone?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Is your baby able to lift one foot for a moment if leaning on a piece of furniture?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Is your baby able to walk backwards for a few steps?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#4300DB",
+      "color2": "#C3A8FF",
+      "iconName": "grossMotor"
+    },
+    "Fine Motor": {
+      "values": [
+        {
+          "label": "can your child rip a piece of paper?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Is he/she able to press low pressure lids onto circular containers?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Can he/she guide a toy car or similar toy back and forth on a path?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#E22B87",
+      "color2": "#FF91EA",
+      "iconName": "fineMotor"
+    },
+    "Cognitive": {
+      "values": [
+        {
+          "label": "is he/she able to point to a majority of main parts of the body?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Can your child follow and obey more complex one step commands?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#00CE96",
+      "color2": "#BEFFED",
+      "iconName": "cognitive"
+    },
+    "Speech": {
+      "values": [
+        {
+          "label": "Your child attempts to say the names of close relatives?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Is your baby able to pronounce names like dada,mama,meema and popop?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#FF5B13",
+      "color2": "#FFD7C6",
+      "iconName": "speech"
+    },
+    "Self Care": {
+      "values": [
+        {
+          "label": "Your baby shows interest in brushing teeth?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Is your child able to pick up toys if you ask?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#FF9D00",
+      "color2": "#FFE2B2",
+      "iconName": "selfCare"
+    },
+    "Social - Emotional": {
+      "values": [
+        {
+          "label": "Your child initiated some social games with mom or dad such as passing a ball back and forth?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Your baby displays limited patience ?(will easily throw a tantrum if not given what he/she wants)",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Your baby laughs hysterically at things which baby finds cheerful or funny?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#CB0016",
+      "color2": "#FFA5AF",
+      "iconName": "socialEmotional"
+    }
+  },
+  "17 Months": {
+    "Gross Motor": {
+      "values": [
+        {
+          "label": " your child climbs stairs holding your hand on one side and hand rail on other?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "While walking, your child can make a sudden change of direction with more ease?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Does your child show increased interest in climbing sofas,chairs, and other furniture?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#4300DB",
+      "color2": "#C3A8FF",
+      "iconName": "grossMotor"
+    },
+    "Fine Motor": {
+      "values": [
+        {
+          "label": "Did your child develop the ability to independently stack rings on ring stacking toy?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "When drawing or painting on a large surface,does your child use the entire arm?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#E22B87",
+      "color2": "#FF91EA",
+      "iconName": "fineMotor"
+    },
+    "Cognitive": {
+      "values": [
+        {
+          "label": "your child associates familiar people with their respective names?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Can your baby identify major parts of the body?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#00CE96",
+      "color2": "#BEFFED",
+      "iconName": "cognitive"
+    },
+    "Speech": {
+      "values": [
+        {
+          "label": "his/her vocabulary is starting to increase such as thank you or come?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Your child adds the use of the word “Yes” to their vocabulary?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Your child uses the word ‘mama’ deliberately and proactively to get your attention?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#FF5B13",
+      "color2": "#FFD7C6",
+      "iconName": "speech"
+    },
+    "Self Care": {
+      "values": [
+        {
+          "label": "can your baby use a fork with certain types of food?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Can your baby drink from a cup without a lid on their own?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Increasingly helps undress themselves, pulling out their arms as you hold his shirt sleeves or lifting each foot as you pull off the pants.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#FF9D00",
+      "color2": "#FFE2B2",
+      "iconName": "selfCare"
+    },
+    "Social - Emotional": {
+      "values": [
+        {
+          "label": "Your baby begins to understand basic courtesies such as  saying “thank you”.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#CB0016",
+      "color2": "#FFA5AF",
+      "iconName": "socialEmotional"
+    }
+  },
+  "18 Months": {
+    "Gross Motor": {
+      "values": [
+        {
+          "label": "Gross motor-Is your child able to walk in different directions when necessary?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Does your child climb up and down stairs holding your hand on one side and handrail on the other?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Is your baby able to walk fast and run short distances?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#4300DB",
+      "color2": "#C3A8FF",
+      "iconName": "grossMotor"
+    },
+    "Fine Motor": {
+      "values": [
+        {
+          "label": "Does your baby place and remove lids of containers?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Does your child draw vertical lines?(usually happens between 18 and 20 months)",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Is your baby able to build three four towers of blocks without assistance?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#E22B87",
+      "color2": "#FF91EA",
+      "iconName": "fineMotor"
+    },
+    "Cognitive": {
+      "values": [
+        {
+          "label": "Does your child have a basic understanding of spatial location of objects such as above,below,inside or outside?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Does your child have the capacity to imitate sounds and words that he/she hears?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Does your baby have attention to stories or rhymes?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#00CE96",
+      "color2": "#BEFFED",
+      "iconName": "cognitive"
+    },
+    "Speech": {
+      "values": [
+        {
+          "label": " his/her vocabulary has a range of 10-20 words?.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Did your child begin to combine words or repeat words?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Does your baby have echolalia ?(i.e repetition of a word or a phrase several times)",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#FF5B13",
+      "color2": "#FFD7C6",
+      "iconName": "speech"
+    },
+    "Self Care": {
+      "values": [
+        {
+          "label": "can your child wash his/her own hands?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#FF9D00",
+      "color2": "#FFE2B2",
+      "iconName": "selfCare"
+    },
+    "Social - Emotional": {
+      "values": [
+        {
+          "label": "does your child enjoy his/her favourite games in the company of familiar adults?.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Can your baby play by himself/herself for a few minutes without the presence of a parent?",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Interested in actions that solicit a response and social interaction (e.g., give and take games).",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Struggles to share toys with playmates.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#CB0016",
+      "color2": "#FFA5AF",
+      "iconName": "socialEmotional"
+    }
+  },
+  "19 Months": {
+    "Gross Motor": {
+      "values": [
+        {
+          "label": "Kick the Ball.can kick a ball with some precision.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Improved coordination and balance allows dancing with some control and falling less frequently when walking.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Able to jump in place with both feet at once.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Is able to throw a ball progressively farther.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#4300DB",
+      "color2": "#C3A8FF",
+      "iconName": "grossMotor"
+    },
+    "Fine Motor": {
+      "values": [
+        {
+          "label": "Turns pages in books with thin pages, usually two or three pages at once.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Can unwrap some small objects combining various fine motor skills and the ability to tear paper.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Able to string beads with medium sized holes on to a firm cable.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#E22B87",
+      "color2": "#FF91EA",
+      "iconName": "fineMotor"
+    },
+    "Cognitive": {
+      "values": [
+        {
+          "label": " Associates Objects with Activities.  for example, knows that soap and towel are used at bath time.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Once completing an objective (e.g., finishing a basic puzzle), will repeat it  several times, which helps reinforce learning.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#00CE96",
+      "color2": "#BEFFED",
+      "iconName": "cognitive"
+    },
+    "Speech": {
+      "values": [
+        {
+          "label": "Initial Short Phrases. begins to use frequently heard two- or three-word phrases.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": " Says “yes” and “no” with more purpose.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "First phrases include the minimum number of necessary words to make himself understood  (telegraphic language).",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#FF5B13",
+      "color2": "#FFD7C6",
+      "iconName": "speech"
+    },
+    "Self Care": {
+      "values": [
+        {
+          "label": "Can pull up or pull off pants with elastic bands.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Capable of bringing a spoon to mouth with greater precision.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "  During the next few months, tantrums can increase, which may sometimes make mealtime, bathtime and other selfCare routines more difficult.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#FF9D00",
+      "color2": "#FFE2B2",
+      "iconName": "selfCare"
+    },
+    "Social - Emotional": {
+      "values": [
+        {
+          "label": " Enjoys Dancing. uses dancing to express happiness and gain social acceptance.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Aware of the presence of other children (still prefers to play alone). ",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Experiences a broader range of emotions (tantrums and biting can result from these new sensations).",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Need for independence will cause him to increasingly try things on his own.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#CB0016",
+      "color2": "#FFA5AF",
+      "iconName": "socialEmotional"
+    }
+  },
+  "20 Months": {
+    "Gross Motor": {
+      "values": [
+        {
+          "label": "Runs Short Distances.can run short distances with imprecise movements.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Walks forward, backward and sideways , with ease  still struggles to do so on a narrow surface.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Can climb up stairs using support on one hand only, needs support on both sides when climbing down stairs.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": " Balance while walking continues to improve  can carry larger items without falling.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#4300DB",
+      "color2": "#C3A8FF",
+      "iconName": "grossMotor"
+    },
+    "Fine Motor": {
+      "values": [
+        {
+          "label": " Drawing Horizontal Lines. attempts to imitate horizontal lines (between months 20 and 22).",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Shape Puzzle.can complete a basic shape (square, triangle and circle) puzzle without assistance.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Can open and close zippers.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#E22B87",
+      "color2": "#FF91EA",
+      "iconName": "fineMotor"
+    },
+    "Cognitive": {
+      "values": [
+        {
+          "label": " Play based on Mental Representations.e.g., uses a box to represent a toy car, plays by moving it and making corresponding car sounds.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Starts to understand that the reflection in the mirror is not another baby but rather himself.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Motor skills, ability to imitate and spatial awareness allow her to replicate a variety of body movements during playtime or while dancing.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#00CE96",
+      "color2": "#BEFFED",
+      "iconName": "cognitive"
+    },
+    "Speech": {
+      "values": [
+        {
+          "label": "Decreased reliance on gestures and noises, as his repertoire of words increases.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Combines words and body language to make herself better understood.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Continues to use the same word in various forms. For example, will use the word wa-wa   for water, juice or milk.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#FF5B13",
+      "color2": "#FFD7C6",
+      "iconName": "Speech"
+    },
+    "Self Care": {
+      "values": [
+        {
+          "label": " Has the ability to use a spoon (to eat solid and semi-liquid food), a fork and drink from a cup with no lid.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Able to help with low complexity household chores (e.g., clean up something that spilled).",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#FF9D00",
+      "color2": "#FFE2B2",
+      "iconName": "selfCare"
+    },
+    "Social - Emotional": {
+      "values": [
+        {
+          "label": "Imitates social behaviors of emotion and conduct, such as forms of celebration and dancing.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": " Incorporates concepts like “mine” and “want” in social interactions motivated by his desire for independence.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Demonstrates pride and pleasure upon completing an objective.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Episodes of frustration start to become more frequent.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Uses available toys to recreate desired adventures (such as playing with a toy plane as it could fly).",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#CB0016",
+      "color2": "#FFA5AF",
+      "iconName": "socialEmotional"
+    }
+  },
+  "21 Months": {
+    "Gross Motor": {
+      "values": [
+        {
+          "label": " Jumping Down.can jump down from a low height.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Kicks a ball, follows it and kicks it again, , consecutively several times.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Changes speed, stops and starts again , with greater ease while walking.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#4300DB",
+      "color2": "#C3A8FF",
+      "iconName": "grossMotor"
+    },
+    "Fine Motor": {
+      "values": [
+        {
+          "label": " Towers of Four to Six Blocks. is able to build towers of four to six blocks (between months 21 and 24).",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Capable of turning round-shaped doorknobs.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#E22B87",
+      "color2": "#FF91EA",
+      "iconName": "fineMotor"
+    },
+    "Cognitive": {
+      "values": [
+        {
+          "label": "Classify into Two Groups. is able to separate objects into two groups based on some characteristic such as size, color or shape.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Concept of Size. has a basic understanding of the concept of size.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Primary Colors. is able to identify some colors, usually the primary colors.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Spatial Awareness. expanded comprehension of the spatial location of objects and himself (in front of or behind  above or below).",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#00CE96",
+      "color2": "#BEFFED",
+      "iconName": "cognitive"
+    },
+    "Speech": {
+      "values": [
+        {
+          "label": " Understands the concept of possessive pronouns like “mine”   and   “yours”.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Uses two- and three-word phrases with some (still limited) frequency.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Vocabulary and ability to pronounce some words clearly continues to improve on a daily basis.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#FF5B13",
+      "color2": "#FFD7C6",
+      "iconName": "speech"
+    },
+    "Social - Emotional": {
+      "values": [
+        {
+          "label": " Reduced Separation Anxiety.able to endure short spans of separation more easily.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Able to spend more time with other kids, though not proactively interacting with them.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "More open to socializing with adults other than immediate family.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Plays at imitating observed adult behaviors, for example, pretending to talk on the phone.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Tests limits and rules set by parents by engaging in defiant behavior.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#CB0016",
+      "color2": "#FFA5AF",
+      "iconName": "socialEmotional"
+    }
+  },
+  "22 Months": {
+    "Gross Motor": {
+      "values": [
+        {
+          "label": " Wide Range of Motor Movements. navigates obstacles with increasing ease  for example, climbing over, under or walking sideways to overcome them.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Able to climb up and down stairs with only one hand on the handrail (but likes to get support in both hands).",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "When dancing, can speed up or slow down the body movements, depending on the rhythm of the music.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Runs more frequently, does it in a straight line and have difficulty stopping suddenly.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#4300DB",
+      "color2": "#C3A8FF",
+      "iconName": "grossMotor"
+    },
+    "Fine Motor": {
+      "values": [
+        {
+          "label": " Drawing Circles.attempts to imitate circular and semi-circular lines (between months 22 and 24).",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Able to roll a ball with higher accuracy due to better hand and finger control.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#E22B87",
+      "color2": "#FF91EA",
+      "iconName": "fineMotor"
+    },
+    "Cognitive": {
+      "values": [
+        {
+          "label": "Day and Night.starts to understand the concept of day and night (which provides the foundation to eventually understand the concept of time).",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Formation of Numerical Concepts. understands the quantitative difference between one and many.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Identifies basic shapes (e.g., square, circle, etc) when you mention them.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#00CE96",
+      "color2": "#BEFFED",
+      "iconName": "cognitive"
+    },
+    "Speech": {
+      "values": [
+        {
+          "label": " Uses Plurals. in some words or short phrases.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Vocabulary. repertoire includes around , 25-35 words.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Enjoys repeating any word or phrase that she finds interesting or funny.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Babbling starts to diminish.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#FF5B13",
+      "color2": "#FFD7C6",
+      "iconName": "speech"
+    },
+    "Self Care": {
+      "values": [
+        {
+          "label": " Participates more actively in bathing routine, helping lather soap, wash down and dry off.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Tries to use napkins by herself.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "With a little help, is able to peel some easy-to-peel fruits, such as a banana.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#FF9D00",
+      "color2": "#FFE2B2",
+      "iconName": "selfCare"
+    },
+    "Social - Emotional": {
+      "values": [
+        {
+          "label": "Increased ability to express emotions (including demonstrations of affection and frustration).",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Likes to help you with frequently observed activities (e.g., if he sees you sweeping, he wants to do it too).",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Likes to share interesting things with you and will take you to them to show them to you.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#CB0016",
+      "color2": "#FFA5AF",
+      "iconName": "socialEmotional"
+    }
+  },
+  "23 Months": {
+    "Gross Motor": {
+      "values": [
+        {
+          "label": " Kick a Moving Ball.can kick a ball that is moving slowly towards him.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Jump in Place.continues to try, feet barely leave the floor.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Ability to run improves  some children can change direction rather than run only in a straight line.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#4300DB",
+      "color2": "#C3A8FF",
+      "iconName": "grossMotor"
+    },
+    "Fine Motor": {
+      "values": [
+        {
+          "label": "Folding Paper. if shown how, can fold a sheet of paper in half.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Has the ability to manipulate small objects (e.g., can open a candy wrapper).",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Imitates several types of line drawing, but grip on the crayon continues to develop over several months.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#E22B87",
+      "color2": "#FF91EA",
+      "iconName": "fineMotor"
+    },
+    "Cognitive": {
+      "values": [
+        {
+          "label": " Colors. identifies favorite colors in nearby objects.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Recognizes some simple shapes upon holding them, without looking at them (a ball versus a cube).",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Memorizes parts of favorite songs.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#00CE96",
+      "color2": "#BEFFED",
+      "iconName": "cognitive"
+    },
+    "Speech": {
+      "values": [
+        {
+          "label": "Starts to identify people outside of the nuclear family by name.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Capacity to imitate words improves greatly  can imitate simple new words immediately after hearing them.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Says her name to refer to herself.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#FF5B13",
+      "color2": "#FFD7C6",
+      "iconName": "speech"
+    },
+    "Self Care": {
+      "values": [
+        {
+          "label": " Can eat a variety of foods using utensils without assistance.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": " Able to undress himself with minimum assistance.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Capable of washing and drying hands with minimal help from you.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#FF9D00",
+      "color2": "#FFE2B2",
+      "iconName": "selfCare"
+    },
+    "Social - Emotional": {
+      "values": [
+        {
+          "label": " Increasingly enjoys the company of other children .",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Laughs with people as a mechanism for integration and social acceptance.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Desire for independence continues, but continues to demand your constant attention.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Displays egocentric behaviors centered on his needs and wants.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#CB0016",
+      "color2": "#FFA5AF",
+      "iconName": "socialEmotional"
+    }
+  },
+  "24 Months": {
+    "Gross Motor": {
+      "values": [
+        {
+          "label": " Climb Stairs Without Help.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Able to climb into a ride-on toy car and push herself along with her feet.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "First attempts to jump forward with both  feet (hop forward).",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#4300DB",
+      "color2": "#C3A8FF",
+      "iconName": "grossMotor"
+    },
+    "Fine Motor": {
+      "values": [
+        {
+          "label": " Turning Pages of a Book turns the pages in a book or magazine one by one.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Can copy vertical, horizontal and  circular lines (this skill with gradually improve over several months).",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Can complete a simple shape puzzle  even when shapes are mixed up and reversed.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#E22B87",
+      "color2": "#FF91EA",
+      "iconName": "fineMotor"
+    },
+    "Cognitive": {
+      "values": [
+        {
+          "label": "Two-Step Commands.comprehends and executes instructions containing two or in some cases, three steps.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Has a better understanding of the parts of the body, recognizes them and knows their function.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Thinking Before Acting.the child capacity to form symbolic thoughts, allows him to think through and anticipate the consequences of his actions rather than acting impulsively.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Her focus changes from exploring an object itself to understanding its functionality.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#00CE96",
+      "color2": "#BEFFED",
+      "iconName": "cognitive"
+    },
+    "Speech": {
+      "values": [
+        {
+          "label": "Vocabulary.comprehends between 150 and 300 words and can use 50 or more of them (varies widely from child to child).",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Phrases of Three or Four Words. Begins to use phrases made of three or four words.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Attempts to combine phrases, pausing , between one phrase and the next.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Word repertoire includes familiar people , objects and several animals.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#FF5B13",
+      "color2": "#FFD7C6",
+      "iconName": "speech"
+    },
+    "Self Care": {
+      "values": [
+        {
+          "label": "Able to comb or brush her own hair with minimal help from you.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Tries to use a spoon to consume liquid or foods, although still spills much of it.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Is capable of putting on some types of shoes (without laces and easy to slide into) .",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#FF9D00",
+      "color2": "#FFE2B2",
+      "iconName": "selfCare"
+    },
+    "Social - Emotional": {
+      "values": [
+        {
+          "label": "Presence of Parallel Play. plays alongside children but not with them.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Open to sharing space with other children, sometimes even sharing toys.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Means to express emotions extend from actions to facial expressions.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        },
+        {
+          "label": "Although her sense of independence  continues to expand, she still has no concept of danger.",
+          "selected": false,
+          "child1": false,
+          "child2": false
+        }
+      ],
+      "color1": "#CB0016",
+      "color2": "#FFA5AF",
+      "iconName": "socialEmotional"
+    }
+  }
+}
